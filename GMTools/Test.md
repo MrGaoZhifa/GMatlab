@@ -8,5 +8,5 @@ Name:The code function
 ```
 > 函数功能
 ```matlab
-GDHTrans.m % 旋转矩阵
+GDHTrans.m % 变换矩阵
 ```
